@@ -7,7 +7,7 @@
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://t.me/matygullin_ruslan"><img width="35px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
-    <a href="https://www.linkedin.com"><img width="35px" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png/"></a>
+<!--     <a href="https://www.linkedin.com"><img width="35px" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png/"></a> -->
     <a href="mailto:matygullinruslan@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
 </p>
 
