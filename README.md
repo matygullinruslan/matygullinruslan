@@ -24,7 +24,6 @@
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :computer:Stack and tools
 <p  align="center">
-  <code><img width="5%" title="vscode" src="images/vscode.png"></code>
   <code><img width="5%" title="Python" src="images/python.png"></code>
   <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
   <code><img width="5%" title="Selene" src="images/selene.png"></code>
