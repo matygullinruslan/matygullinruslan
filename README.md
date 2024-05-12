@@ -14,8 +14,6 @@
 ### Технологии и инструменты
 <p  align="center">
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-## :computer:Stack and tools
 <p  align="center">
   <code><img width="5%" title="Python" src="images/python.png"></code>
   <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
