@@ -44,6 +44,6 @@
 
 <p  align="left">
     <code><img width="35%" title="QA_GURU" src="images/QA_GURU_courses.png"></code>
-    <code><img width="35%" title="ШНАТ" src="images/certificate.png"></code>
+    <code><img width="30%" title="ШНАТ" src="images/certificate.png"></code>
     <code><img width="35%" title="Stepik" src="images/stepik_certificate.png"></code>
 </p>
