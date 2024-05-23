@@ -43,5 +43,5 @@
 ### Сертификаты о пройденных курсах.
 
 <p  align="center">
-    <code><img width="5%" title="QA_GURU" src="images/QA_GURU_courses"></code>
+    <code><img width="5%" title="QA_GURU" src="images/QA_GURU_courses.png"></code>
 </p>
