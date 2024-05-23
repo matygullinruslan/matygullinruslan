@@ -37,4 +37,4 @@
 #### <a target="_blank" href="https://github.com/matygullinruslan/qa_guru_python_9_11_Selene_UI_project"> Проект по  автоматизации тестирования web (UI)
 
 ### Сертификаты о пройденных курсах.
-<code><img width="100%" title="vscode" src="images/vscode.png"></code>
+<code><img width="100%" title="vscode" src="images/QA_GURU_courses"></code>
