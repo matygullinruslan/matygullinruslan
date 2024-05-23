@@ -46,3 +46,6 @@
 ### 🚀 Мои проекты 
 #### <a target="_blank" href="https://github.com/matygullinruslan/project-rest-api">Проект по  автоматизации тестирования API
 #### <a target="_blank" href="https://github.com/matygullinruslan/qa_guru_python_9_11_Selene_UI_project"> Проект по  автоматизации тестирования web (UI)
+
+### Сертификаты о пройденных курсах.
+<code><img width="100%" title="vscode" src="images/vscode.png"></code>
