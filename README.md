@@ -43,6 +43,7 @@
 ### Сертификаты о пройденных курсах.
 
 <p  align="center">
-    <code><img width="80%" title="QA_GURU" src="images/QA_GURU_courses.png"></code>
-    <code><img width="80%" title="QA_GURU" src="images/certificate.png"></code>
+    <code><img width="50%" title="QA_GURU" src="images/QA_GURU_courses.png"></code>
+    <code><img width="50%" title="ШНАТ" src="images/certificate.png"></code>
+    <code><img width="50%" title="Stepik" src="images/stepik_certificate.png"></code>
 </p>
