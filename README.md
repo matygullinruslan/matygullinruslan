@@ -50,7 +50,7 @@
     <code><img width="35%" title="Stepik" src="images/stepik_certificate.png"></code>
 </p>
 
-### 💼 Примеры оформленных тест-кейсов и чек-листов
+### 💼 Примеры оформленных тест-кейсов и чек-листов.
 
 #### <a target="_blank" href="https://docs.google.com/spreadsheets/d/1vJ4XbpAiMRWkKypeH0Sv2Dg2Yl8lpL0Q/edit#gid=695123732">Тест-кейсы API.
 #### <a target="_blank" href="https://docs.google.com/spreadsheets/d/1apdpsPLpF54jWUqkAJ5EjNIuFfRm1eY-/edit#gid=800195470">Тест-кейсы. Авторизация.
