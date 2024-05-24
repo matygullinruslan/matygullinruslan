@@ -51,3 +51,7 @@
 </p>
 
 ### 💼 Примеры оформленных тест-кейсов и чек-листов
+
+#### <a target="_blank" href="https://docs.google.com/spreadsheets/d/1vJ4XbpAiMRWkKypeH0Sv2Dg2Yl8lpL0Q/edit#gid=695123732">Тест-кейсы API 
+#### <a target="_blank" href="https://docs.google.com/spreadsheets/d/1apdpsPLpF54jWUqkAJ5EjNIuFfRm1eY-/edit#gid=800195470">Тест-кейсы. Авторизация.
+#### <a target="_blank" href="https://docs.google.com/spreadsheets/d/1jRvGlmGTWSFy0-vy2J2dL1a7MW16UcgS/edit#gid=470491826">Тест_кейсы. Транзакция.
